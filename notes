@@ -1,0 +1,12 @@
+Scala 3
+- New compiler
+- offers backwards compatibility between scala 3 versions
+
+New language?
+- Superset of Scala 2
+- Deprecated structures that were confusing, problematic, or unused
+- New features: extension methods, given/using, enums, type lambdas.....?
+
+-- Syntax -- Scala 2 syntax works in Scala 3 --
+- Braceless structures
+- siginificant indentation
